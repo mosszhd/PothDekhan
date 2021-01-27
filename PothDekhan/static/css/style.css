@@ -1,0 +1,100 @@
+
+#mapid{
+   margin-left: 30;
+}
+
+ #slide-in{
+     position: absolute;
+     width: 250px;
+     z-index: 1000;
+     background: white;
+     margin-left: -250px;
+ }
+
+ .leaflet-container button {
+    display: inherit;
+    height: inherit;
+    width: inherit;
+    padding: inherit;
+    box-sizing: inherit;
+}
+
+.button, button, input[type="submit"], input[type="reset"], input[type="button"] {
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: #555;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+#search-form {
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+  }
+
+#search-form input {
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border: 2px solid #ccc;
+  border-radius: 2px;
+}
+
+#search-form button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    width: 3rem;
+    text-align: center;
+    font-size: 1.75rem;
+    cursor: pointer;
+    color: #333;
+  }
+
+  #search-form1 {
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+  }
+
+#search-form1 input {
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border: 2px solid #ccc;
+  border-radius: 2px;
+}
+
+#search-form1 button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    width: 3rem;
+    text-align: center;
+    font-size: 1.75rem;
+    cursor: pointer;
+    color: #333;
+  }
